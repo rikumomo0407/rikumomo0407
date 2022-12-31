@@ -1,2 +1,2 @@
-[![](https://img.shields.io/twitter/follow/rikumomo0407?label=Twitter&logo=twitter&style=flat)](http://twitter.com/rikumomo0407)
+[![](https://img.shields.io/twitter/follow/rikumomo0407?label=Twitter&logo=twitter&style=dark)](http://twitter.com/rikumomo0407)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
