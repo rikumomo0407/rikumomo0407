@@ -1,1 +1,2 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
