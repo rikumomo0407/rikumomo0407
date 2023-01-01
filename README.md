@@ -4,6 +4,12 @@
 [![](https://img.shields.io/twitter/follow/rikumomo0407?label=Twitter&logo=twitter&style=flat)](http://twitter.com/rikumomo0407)
 [![rikumomo0407](https://komarev.com/ghpvc/?username=rikumomo0407)](https://github.com/rikumomo0407/rikumomo0407)
 
+[![Sublime's custom image](https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif)](https://github.com/rikumomo0407/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif)
+
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=rikumomo0407&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/rikumomo0407/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=tokyonight)](https://github.com/rikumomo0407/)
+
+<!--
 <p>
 <a href="https://github.com/rikumomo0407/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif">
   <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif" />
@@ -15,6 +21,7 @@
   <img width="100%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
 </a>
 </p>
+-->
 
 <p>
 ・自己紹介
