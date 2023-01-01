@@ -9,4 +9,8 @@
 <a href="https://github.com/rikumomo0407">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
 </a>
-Hi, I'm in NITKIT student, mainly use arduino IDE Python Javascript and so on. Making works as hobbier, so I can't have responsibilities. Do not use without my allowance, but just viewing is no problem.
+Hi, I'm in NITKIT student, mainly use arduino IDE Python Javascript and so on. 
+
+You are free to view the code, but please include my name when using it. 
+
+I do not take any responsibility for the code as I am creating it as a hobby.
