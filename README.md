@@ -13,5 +13,4 @@
 </p>
 Hi, I'm NITKIT student working mostly with Python, Javascript, Arduino IDE.
 
-You are free to view the code, but please include my name when using it. 
-I do not take any responsibility for the code as I am creating it as a hobby.
+You are free to view the code, but please include my name when using it and I do not take any responsibility for the code as I am creating it as a hobby.
