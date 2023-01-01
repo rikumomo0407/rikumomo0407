@@ -5,13 +5,13 @@
 [![rikumomo0407](https://komarev.com/ghpvc/?username=rikumomo0407)](https://github.com/rikumomo0407/rikumomo0407/)
 <p>
 <a href="https://github.com/rikumomo0407">
-  <img align="left" width="50%" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
+  <img width="50%" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/rikumomo0407">
-  <img align="left" width="50%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
+  <img width="50%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
 </a>
 </p>
-<p style="width:50%;">
+<p>
 ・自己紹介
 
 👋🏼こんにちは、rikumomo0407です。私は主にPythonやJavascript、Arduino IDEなどを使ってプログラムや電子工作を趣味で楽しんでいる高専生です。
