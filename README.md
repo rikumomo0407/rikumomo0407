@@ -10,7 +10,7 @@
 </a>
 </p>
 
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=rikumomo0407&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/rikumomo0407/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=rikumomo0407&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&card_width=400)](https://github.com/rikumomo0407/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=tokyonight)](https://github.com/rikumomo0407/)
 
 <!--
