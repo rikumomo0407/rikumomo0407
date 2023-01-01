@@ -11,6 +11,10 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
 </a>
 </p>
+👋🏼こんにちは、rikumomo0407です。私は主にPythonやJavascript、Arduino IDEなどを使ってプログラムや電子工作を趣味で楽しんでいる高専生です。
+
+⚠️
+
 👋🏼Hi, I'm NITKIT student working mostly with Python, Javascript, Arduino IDE.
 
 ⚠️You are free to view the code, but please include my name when using it and understand that I cannot assume any responsibility for the code as I am creating it as a hobby.
