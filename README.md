@@ -5,10 +5,10 @@
 [![rikumomo0407](https://komarev.com/ghpvc/?username=rikumomo0407)](https://github.com/rikumomo0407/rikumomo0407/)
 <p style="width:100%;display:flex;">
 <a href="https://github.com/rikumomo0407">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" width="50%" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/rikumomo0407">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
+  <img align="left" width="50%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
 </a>
 </p>
 
