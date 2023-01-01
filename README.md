@@ -12,13 +12,13 @@
 </a>
 </p>
 
-🇯🇵自己紹介
+自己紹介
 
 👋🏼こんにちは、rikumomo0407です。私は主にPythonやJavascript、Arduino IDEなどを使ってプログラムや電子工作を趣味で楽しんでいる高専生です。
 
 ⚠️コードの個人的な使用、閲覧は自由ですが、引用する際は私の名前を記入してください。また、趣味の範疇での制作ですので、使用後の責任等は一切負えないことをご理解下さい。
 
-🇺🇸Self-introduction
+Self-introduction
 
 👋🏼Hi, I'm NITKIT student working mostly with Python, Javascript, Arduino IDE.
 
