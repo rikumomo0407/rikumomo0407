@@ -3,12 +3,14 @@
 [![](https://img.shields.io/github/followers/rikumomo0407?label=follow&logo=github&style=flat)](https://github.com/rikumomo0407)
 [![](https://img.shields.io/twitter/follow/rikumomo0407?label=Twitter&logo=twitter&style=flat)](http://twitter.com/rikumomo0407)
 [![rikumomo0407](https://komarev.com/ghpvc/?username=rikumomo0407)](https://github.com/rikumomo0407/rikumomo0407)
-<a href="https://github.com/rikumomo0407/rikumomo0407">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true" />
+<p>
+<a href="https://github.com/rikumomo0407">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/rikumomo0407/rikumomo0407">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407" />
+<a href="https://github.com/rikumomo0407">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
 </a>
+</p>
 ・自己紹介
 
 👋🏼こんにちは、rikumomo0407です。私は主にPythonやJavascript、Arduino IDEなどを使ってプログラムや電子工作を趣味で楽しんでいる高専生です。
