@@ -8,13 +8,13 @@
 
 <p>
 <a href="https://github.com/rikumomo0407/rikumomo0407/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif">
-  <img height="170px" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif" />
+  <img src="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif" />
 </a>
 <a href="https://github.com/rikumomo0407">
-  <img width="100%" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/rikumomo0407">
-  <img width="100%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
 </a>
 </p>
 
