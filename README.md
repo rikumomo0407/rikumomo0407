@@ -18,6 +18,7 @@
 
 ⚠️コードの個人的な使用、閲覧は自由ですが、引用する際は私の名前を記入してください。また、趣味の範疇での制作ですので、使用後の責任等は一切負えないことをご理解下さい。
 
+・Introducing
 
 👋🏼Hi, I'm NITKIT student working mostly with Python, Javascript, Arduino IDE.
 
