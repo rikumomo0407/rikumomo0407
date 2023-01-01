@@ -8,14 +8,12 @@
 
 <p>
 <a href="https://github.com/rikumomo0407">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" width="48%" height="170px" src="https://github-readme-stats.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/rikumomo0407">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
+  <img align="left" width="48%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula" />
 </a>
 </p>
-
-<br>
 
 <p>
 ・自己紹介
