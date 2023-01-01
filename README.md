@@ -5,7 +5,7 @@
 [![rikumomo0407](https://komarev.com/ghpvc/?username=rikumomo0407)](https://github.com/rikumomo0407/rikumomo0407)
 
 <p>
-<a href="https://github.com/rikumomo0407/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif">
+<a href="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif">
   <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif" />
 </a>
 <a href="https://github.com/rikumomo0407">
