@@ -9,10 +9,10 @@
   <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif" />
 </a>
 <a href="https://github.com/rikumomo0407">
-  <img height="170px" src="https://github-readme-stats-reload.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula&card_width=490" />
+  <img height="170px" src="https://github-readme-stats-reload.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula&card_width=480" />
 </a>
 <a href="https://github.com/rikumomo0407">
-  <img height="170px" src="https://github-readme-stats-reload.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula&card_width=400" />
+  <img height="170px" src="https://github-readme-stats-reload.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula&card_width=390" />
 </a>
 </p>
 
