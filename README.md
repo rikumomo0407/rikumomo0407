@@ -12,7 +12,7 @@
   <img height="170px" src="https://github-readme-stats-reload.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula&card_width=473" />
 </a>
 <a href="https://github.com/rikumomo0407">
-  <img height="170px" src="https://github-readme-stats-reload.vercel.app/api?top-langs/?username=rikumomo0407&layout=compact&theme=dracula&card_width=289" />
+  <img height="170px" src="https://github-readme-stats-reload.vercel.app/api/top-langs/?username=rikumomo0407&layout=compact&theme=dracula&card_width=289" />
 </a>
 </p>
 
