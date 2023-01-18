@@ -35,7 +35,7 @@
 
 ✏️Editors
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,arduino)]()
 
 📚Languages
 
