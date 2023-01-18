@@ -38,4 +38,4 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,html,css,js,react,nextjs,tailwind)](https://github.com/rikumomo0407)
 
 🔧Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,arduino,dotnet,git,github,netlify,vercel)](https://github.com/rikumomo0407)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,arduino,git,github,netlify,vercel)](https://github.com/rikumomo0407)
