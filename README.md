@@ -33,8 +33,6 @@
 
 ***
 
-💻My env
-
 ✏️Editors
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,arduino)](https://github.com/rikumomo0407)
