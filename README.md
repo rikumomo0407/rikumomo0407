@@ -31,4 +31,12 @@
 ⚠️You are free to use and view the code for personal use, but please include my name when using it and understand that I cannot assume any responsibility for the code as I am creating it as a hobby.
  </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+💻My env
+
+✏️Editors
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,arduino)](https://skillicons.dev)
+
+📚Languages
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
