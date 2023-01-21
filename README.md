@@ -35,7 +35,7 @@
 
 📚Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cp,py,html,css,js,react,nextjs,tailwind)](https://github.com/rikumomo0407)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,react,nextjs,tailwind)](https://github.com/rikumomo0407)
 
 🔧Tools
 
