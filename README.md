@@ -16,7 +16,7 @@
 </a>
 </p>
 
-![](https://grass-graph.moshimo.works/images/{rikumomo0407}.png)
+![](https://grass-graph.moshimo.works/images/rikumomo0407.png)
 
 🇯🇵自己紹介
 
