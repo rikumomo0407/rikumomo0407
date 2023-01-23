@@ -16,6 +16,8 @@
 </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rikumomo0407)](https://github.com/ryo-ma/github-profile-trophy)
+
 🇯🇵自己紹介
 
 👋🏼こんにちは、rikumomo0407です。私は主にPythonやJavascript、Arduino IDEなどを使ってプログラムや電子工作を趣味で楽しんでいる高専生です。
