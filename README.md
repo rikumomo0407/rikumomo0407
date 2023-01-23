@@ -16,7 +16,7 @@
 </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rikumomo0407)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rikumomo0407&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 🇯🇵自己紹介
 
