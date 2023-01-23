@@ -8,9 +8,6 @@
 <a href="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif">
   <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif" />
 </a>
-<a href="https://github.com/rikumomo0407/rikumomo0407//raw/main/svg/github-user-contribution.svg">
-  <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/svg/github-user-contribution.svg" />
-</a>
 <a href="https://github.com/rikumomo0407">
   <img height="170px" src="https://github-readme-stats-reload.vercel.app/api?username=rikumomo0407&count_private=true&show_icons=true&theme=dracula&card_width=490" />
 </a>
@@ -20,6 +17,10 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rikumomo0407&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/rikumomo0407/rikumomo0407//raw/main/svg/github-user-contribution.svg">
+  <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/svg/github-user-contribution.svg" />
+</a>
 
 🇯🇵自己紹介
 
