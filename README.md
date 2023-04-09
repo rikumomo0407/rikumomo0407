@@ -18,8 +18,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rikumomo0407&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/github-user-contribution.svg">
-  <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/github-user-contribution.svg" />
+<a href="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/github-user-contribution 2.svg">
+  <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/gif/github-user-contribution 2.svg" />
 </a> 
 
 ***
