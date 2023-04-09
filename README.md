@@ -22,6 +22,8 @@
   <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/svg/github-user-contribution.svg" />
 </a>
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/rikumomo0407/rikumomo0407/master/img/snake.svg) 
+
 ***
 
 🇯🇵自己紹介
