@@ -44,7 +44,7 @@ Here is my profile site 👉 https://rikumomo0407.github.io/profile/
 
 📚Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,react,nextjs,tailwind)](https://github.com/rikumomo0407)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,php,mysql,react,nextjs,tailwind)](https://github.com/rikumomo0407)
 
 🔧Tools
 
