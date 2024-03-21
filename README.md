@@ -48,4 +48,4 @@ Here is my profile site 👉 https://rikumomo0407.github.io/profile/
 
 🔧Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,xcode,arduino,git,github,netlify,vercel)](https://github.com/rikumomo0407)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,docker,arduino,git,github,netlify,vercel)](https://github.com/rikumomo0407)
